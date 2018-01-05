@@ -22,6 +22,6 @@ Esta guía no pretende ser rigurosa, sino amigable, que le permita comprender c�
 
 Esta guía básica se compone de las siguientes 2 partes (2 notebooks):
 - [Parte 1 - Lo básico:](Part1_es.ipynb) en esta parte repasaremos los conceptos básicos, implementando la red neuronal más simple: un perceptrón.
-- [Parte 2 - La capa oculta:](Parte2_es.ipynb) en esta parte implementaremos una red neuronal con 2 capas (una capa oculta y de salida), y hablaremos sobre feedforward, backpropagation, cómo preparar un conjunto de datos y cómo para refactorizar un modelo en una clase.
+- [Parte 2 - La capa oculta:](Part2_es.ipynb) en esta parte implementaremos una red neuronal con 2 capas (una capa oculta y de salida), y hablaremos sobre feedforward, backpropagation, cómo preparar un conjunto de datos y cómo para refactorizar un modelo en una clase.
 
 Prepárate para aprender muchos conceptos, pero no temas, haré mi mejor esfuerzo para ayudarte a ingresar a este emocionante campo de manera amigable.
